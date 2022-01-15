@@ -1,4 +1,4 @@
-###👋🏻 Hi, my name is Siddharth.
+### 👋🏻 Hi, my name is Siddharth.
 
 - 🎓 Soon to be grad with a Master’s in Computer Science from the University of Illinois at Urbana-Champaign (UIUC) in December 2022.
 - 🌇 Mumbai native, with a passion for developing Software to positively impact people all around the world.
